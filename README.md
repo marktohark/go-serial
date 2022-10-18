@@ -1,5 +1,7 @@
 [![Build Status](https://github.com/bugst/go-serial/workflows/test/badge.svg)](https://github.com/bugst/go-serial/actions?workflow=test)
 
+# add write time out in windows
+
 # go.bug.st/serial
 
 A cross-platform serial library for go-lang.
